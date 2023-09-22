@@ -1,10 +1,11 @@
+[![Header](./github-header-image%20(1).png)]
 <h1 align="center">Hi 👋, I'm Vishnuraj M R</h1>
 <h3 align="center">Energised MEAN full stack web developer.</h3>
 <img align="right" alt="coding" width=400 src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47t36e3zetb4zndbg6rm6mxfh793dy7rt9y0ne2dw2&ep=v1_gifs_related&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurajmr1&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurajmr1" /> </p>
 
-- 🔭 I’m currently working on **A project**
+- 🔭 I’m currently working on **An awesome project**
 
 - 🌱 I’m currently learning **Angular,Typescript,nodejs,javascript**
 
@@ -18,10 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishnurajmr" target="blank"><img align="center" src="![image](https://github.com/Vishnurajmr1/Vishnurajmr1/assets/121445340/8c7babf8-21f0-4fb8-9530-99295fa928c6)
-" alt="vishnurajmr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishnuraj mr" target="blank"><img align="center" src=https://github.com/Vishnurajmr1/Vishnurajmr1/blob/main/linkedin_1377213.png" alt="vishnuraj mr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21573835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21573835" height="30" width="40" /></a>
-<a href="https://fb.com/vishnurajmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnurajmr" height="30" width="40" /></a>
+<a href="https://fb.com/vishnuraj mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnuraj mr" height="30" width="40" /></a>
 <a href="https://medium.com/@vishnurajmr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishnurajmr1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishnurajmr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnurajmr1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishnura2ojl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishnura2ojl" height="30" width="40" /></a>
