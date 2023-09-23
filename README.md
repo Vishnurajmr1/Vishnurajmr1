@@ -1,4 +1,4 @@
-[![Header](./github-header-image%20(1).png)]
+[![Header](./github-header-image.png)]
 <h1 align="center">Hi 👋, I'm Vishnuraj M R</h1>
 <h3 align="center">Energised MEAN full stack web developer.</h3>
 <img align="right" alt="coding" width=400 src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47t36e3zetb4zndbg6rm6mxfh793dy7rt9y0ne2dw2&ep=v1_gifs_related&rid=giphy.gif&ct=g"
