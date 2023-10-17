@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishnuraj mr" target="blank"><img align="center" src="./linkedin_1377213.png" alt="vishnuraj mr" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/vishnuraj mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg.svg" alt="vishnuraj mr" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/21573835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21573835" height="30" width="40" /></a>
 <a href="https://fb.com/vishnuraj mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnuraj mr" height="30" width="40" /></a>
 <a href="https://medium.com/@vishnurajmr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishnurajmr1" height="30" width="40" /></a>
