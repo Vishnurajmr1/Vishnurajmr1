@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vishnuraj M R
-🔭 I’m currently working on An awesome project<br><br>🌱 I’m currently learning Angular,Typescript,nodejs,javascript<br><br>👨‍💻 All of my projects are available at https://github.com/Vishnurajmr1<br><br>💬 Ask me about Angular,TypeScript,JavaScript,Nodejs,express,MongoDB,PostSQL,Html<br><br>📫 How to reach me vishnurajmr1@gmail.com<br><br>⚡ Fun fact I am always try to learn new technologies because iam a self taught full stack developer.
+🪄 I’m currently working on An awesome project<br><br>🎓 I’m currently learning Angular,Typescript,nodejs,javascript<br><br>👨‍💻 All of my projects are available at https://github.com/Vishnurajmr1<br><br>💬 Ask me about Angular,TypeScript,JavaScript,Nodejs,express,MongoDB,PostSQL,Html<br><br>📫 How to reach me vishnurajmr1@gmail.com<br><br>⚡ Fun fact : Me😊 myself always try to learn new technologies because, Iam a self taught full stack developer😎.
 
 
 ## 🌐 Socials:
